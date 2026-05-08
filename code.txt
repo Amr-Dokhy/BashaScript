@@ -1,0 +1,8 @@
+yalla {
+    daraga = 75
+    lw daraga >= 50 {
+        ekteb("ناجح")
+    } nafez {
+        ekteb("راسب")
+    }
+}
